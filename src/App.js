@@ -291,14 +291,7 @@ const TelecomDimensioningApp = () => {
         <p>Ce dimensionnement a été calculé en utilisant les algorithmes standards pour les réseaux ${reportData.network}, 
         en tenant compte des spécificités du contexte sénégalais.</p>
         
-        <h3>Recommandations</h3>
-        <ul>
-            <li>Optimiser la position des sites pour une meilleure couverture</li>
-            <li>Considérer les obstacles géographiques et climatiques</li>
-            <li>Prévoir une marge de capacité pour la croissance future</li>
-            <li>Intégrer les aspects de sécurité et redondance</li>
-            <li>Valider les résultats avec des mesures sur site</li>
-        </ul>
+        
     </div>
 
     <div class="footer">
